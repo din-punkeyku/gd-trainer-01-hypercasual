@@ -10,9 +10,9 @@ public class GameManager : MonoBehaviour
     public GameObject hudPanel;
 
     [Tooltip("Базовое значение здоровья игрока")]
-    public int healthAmount = 10;
+    public int healthAmount = 1;
 
-    public int coins = 0;
+    public int coins = 3;
     private GameSpeed _gameSpeed;
 
     private void Start()

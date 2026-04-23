@@ -1721,7 +1721,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GameSpeed
   gameManager: {fileID: 758023147}
   baseSpeed: 5
-  speedIncrement: 1
+  speedIncrement: 2
   scoreThreshold: 100
 --- !u!1 &761015150
 GameObject:
@@ -4773,7 +4773,7 @@ MonoBehaviour:
   spawnPositions:
   - {fileID: 3847770924491750104}
   coinPrefab: {fileID: 8274691573215431933, guid: f236a6a642b41e94aa8deb7688e588b9, type: 3}
-  spawnInterval: 3
+  spawnInterval: 1.5
 --- !u!1001 &2175436736143476097
 PrefabInstance:
   m_ObjectHideFlags: 0
